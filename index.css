@@ -1,0 +1,13 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+html{
+    background-color: lightpink;
+}
+h1{
+    color: #fff;
+    background-color: #000;
+    border:1px solid lightseagreen;
+}
